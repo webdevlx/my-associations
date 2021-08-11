@@ -1,0 +1,104 @@
+{
+  "associations": [
+    {
+      "id": 1,
+      "name": "sun",
+      "title": "Quyosh"
+    },
+    {
+      "id": 2,
+      "name": "socks",
+      "title": "Paypoqlar"
+    },
+    {
+      "id": 3,
+      "name": "traffic_lights",
+      "title": "Svetafor"
+    },
+    {
+      "id": 4,
+      "name": "table",
+      "title": "Stol"
+    },
+    {
+      "id": 5,
+      "name": "star",
+      "title": "Yulduz"
+    },
+    {
+      "id": 6,
+      "name": "open_lock",
+      "title": "Ochiq qulf"
+    },
+    {
+      "id": 7,
+      "name": "axe",
+      "title": "Bolta"
+    },
+    {
+      "id": 8,
+      "name": "hourglass",
+      "title": "Qum soati"
+    },
+    {
+      "id": 9,
+      "name": "cat",
+      "title": "Mushuk"
+    },
+    {
+      "id": 10,
+      "name": "fingers",
+      "title": "Barmoqlar"
+    },
+    {
+      "id": 11,
+      "name": "ski",
+      "title": "Chang'i"
+    },
+    {
+      "id": 12,
+      "name": "clock",
+      "title": "Soat"
+    },
+    {
+      "id": 13,
+      "name": "witch",
+      "title": "Jodugar"
+    },
+    {
+      "id": 14,
+      "name": "love",
+      "title": "Sevgi"
+    },
+    {
+      "id": 15,
+      "name": "money",
+      "title": "Pul"
+    },
+    {
+      "id": 16,
+      "name": "passport",
+      "title": "Pasport"
+    },
+    {
+      "id": 17,
+      "name": "emoji_day",
+      "title": "Butun Jahon Emoji kuni"
+    },
+    {
+      "id": 18,
+      "name": "vote",
+      "title": "Ovoz berish"
+    },
+    {
+      "id": 19,
+      "name": "covid",
+      "title": "Koronavirus"
+    },
+    {
+      "id": 20,
+      "name": "chess",
+      "title": "Shaxmat"
+    }
+  ]
+}
